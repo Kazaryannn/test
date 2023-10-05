@@ -1,0 +1,21 @@
+.item-box{
+    width: 1180px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.input-box{
+    width: 1180px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.btn{
+    margin-left: 15px;
+    width: 75px;
+}
+.add{
+    margin-right: 10px ;
+}
